@@ -1,6 +1,6 @@
-# How to modify the cell style while importing the worksheet
+# How to Modify the Cell Style While Importing the Worksheet in WPF Spreadsheet?
 
-This sample demonstrates how to modify the cell style while importing the worksheet.
+This sample demonstrates how to modify the cell style while importing the worksheet in [WPF Spreadsheet](https://www.syncfusion.com/spreadsheet-editor-sdk/wpf-spreadsheet-editor) (SfSpreadsheet).
 
 In `Spreadsheet` control, you can modify the cell style of particular cell or entire sheet while importing the Excel workbook. `CellStyle` includes font settings, alignment settings, border settings and fill color settings, etc.
 
